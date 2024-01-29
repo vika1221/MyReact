@@ -82,7 +82,7 @@ export default function Footer() {
                 <div className="sm:flex sm:items-center sm:justify-between">
                     <span className="text-sm text-gray-500 sm:text-center">
                         © 2023
-                        <a href="https://hiteshchoudhary.com/" className="hover:underline">
+                        <a href="https://www.linkedin.com/in/vikash-ranjan-kumar-85aa31238/" className="hover:underline">
                             Vikash Ranjan
                         </a>
                         . All Rights Reserved.
