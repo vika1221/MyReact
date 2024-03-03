@@ -81,6 +81,7 @@ function App() {
         </div>
       </div>
       <a
+        // https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies.json
         href="https://www.xe.com/symbols/"
         target="_blank"
         className="text-2xl text-red-500 shadow-2xl rounded-lg bg-white/30"
